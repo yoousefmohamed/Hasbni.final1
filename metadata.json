@@ -1,0 +1,6 @@
+{
+  "name": "Barmegny",
+  "description": "Barmegny (برمجني) - Eng. Youssef Balah. Specialized in Accounting software, POS systems, ERP systems, web development, cloud solutions, and AI automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
